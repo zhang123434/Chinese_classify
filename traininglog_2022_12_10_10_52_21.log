@@ -1,0 +1,16 @@
+[2022-12-10 12:02:11,353][1954766237.py][line:7][INFO] start training!
+[2022-12-10 12:23:34,451][1954766237.py][line:46][INFO] Epoch:[0]	 train_loss=2.27783036	 train_acc=0.59186333	 test_loss=0.44187978	 test_acc=0.88635749
+[2022-12-10 12:47:53,658][1954766237.py][line:46][INFO] Epoch:[1]	 train_loss=0.40501902	 train_acc=0.89677221	 test_loss=0.29419401	 test_acc=0.92624819
+[2022-12-10 13:14:47,462][1954766237.py][line:46][INFO] Epoch:[2]	 train_loss=0.30458650	 train_acc=0.92465812	 test_loss=0.25234786	 test_acc=0.93666023
+[2022-12-10 13:41:50,005][1954766237.py][line:46][INFO] Epoch:[3]	 train_loss=0.25793833	 train_acc=0.93736839	 test_loss=0.23629758	 test_acc=0.94094300
+[2022-12-10 14:08:17,878][1954766237.py][line:46][INFO] Epoch:[4]	 train_loss=0.22803232	 train_acc=0.94554710	 test_loss=0.22412457	 test_acc=0.94460166
+[2022-12-10 14:35:06,845][1954766237.py][line:46][INFO] Epoch:[5]	 train_loss=0.20675348	 train_acc=0.95113170	 test_loss=0.21617030	 test_acc=0.94678789
+[2022-12-10 15:24:45,885][3696033394.py][line:46][INFO] Epoch:[6]	 train_loss=0.17765515	 train_acc=0.95936900	 test_loss=0.20636289	 test_acc=0.94882810
+[2022-12-10 15:46:14,475][3696033394.py][line:46][INFO] Epoch:[7]	 train_loss=0.16652387	 train_acc=0.96267098	 test_loss=0.20098771	 test_acc=0.95092040
+[2022-12-10 16:07:46,018][3696033394.py][line:46][INFO] Epoch:[8]	 train_loss=0.15828106	 train_acc=0.96528018	 test_loss=0.20022637	 test_acc=0.95123589
+[2022-12-10 16:29:20,159][3696033394.py][line:46][INFO] Epoch:[9]	 train_loss=0.15110852	 train_acc=0.96708351	 test_loss=0.19787920	 test_acc=0.95187622
+[2022-12-10 16:50:51,254][3696033394.py][line:46][INFO] Epoch:[10]	 train_loss=0.14407808	 train_acc=0.96878564	 test_loss=0.19719678	 test_acc=0.95205599
+[2022-12-10 17:12:32,480][3696033394.py][line:46][INFO] Epoch:[11]	 train_loss=0.13810758	 train_acc=0.97080976	 test_loss=0.19708528	 test_acc=0.95218879
+[2022-12-10 17:12:32,483][3696033394.py][line:59][INFO] finish training!
+
+
